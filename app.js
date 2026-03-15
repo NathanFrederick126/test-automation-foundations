@@ -18,4 +18,4 @@ module.exports = (db) => {
     app.use(errorHandler); // Add this as the last middleware
 
     return app;
-};
+};// Section 1 completed for LinkedIn Learning course
