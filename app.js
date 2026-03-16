@@ -21,3 +21,4 @@ module.exports = (db) => {
 };// Section 1 completed for LinkedIn Learning course
 // Section 3 completed for LinkedIn Learning course
 // Section 5 completed for LinkedIn Learning course
+// Completed the  LinkedIn Learning course
